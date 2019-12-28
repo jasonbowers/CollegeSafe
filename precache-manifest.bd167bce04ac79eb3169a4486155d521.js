@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cdccb94b65155caf630e8d32b1e90b66",
+    "revision": "231fec22f94b20bad13686d4c5068ed4",
     "url": "/collegesafe/index.html"
   },
   {
