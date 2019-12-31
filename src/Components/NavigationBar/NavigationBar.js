@@ -1,12 +1,5 @@
-import React, {
-  Component
-} from "react";
-import {
-  Nav,
-  Navbar,
-  NavbarBrand,
-  Container
-} from "react-bootstrap";
+import React, { Component } from "react";
+import { Nav, Navbar, NavbarBrand, Container } from "react-bootstrap";
 import styled from "styled-components";
 import icon from "../../Assets/icn.png";
 
@@ -27,12 +20,16 @@ const Styles = styled.div`
       max-width: 50px;
     }
   }
+
+  .navbar-light .navbar-toggler {
+    color: white;
+  }
 `;
 
 export default class NavigationBar extends Component {
   render() {
     return (<Styles>
-      <Navbar expand="lg">
+      <Navbar expand="lg" className="navbar-dark">
         <Container>
           <NavbarBrand href="/">
             <img className="brand-icon"

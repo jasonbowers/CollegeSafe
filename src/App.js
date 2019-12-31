@@ -10,6 +10,7 @@ import NoMatch from "./Routes/NoMatch.js";
 
 import Layout from "./Components/Layout/Layout.js";
 import NavigationBar from "./Components/NavigationBar/NavigationBar.js";
+import Jumbotron from "./Components/Jumbotron/Jumbotron.js";
 
 dotenv.config();
 
@@ -18,6 +19,7 @@ class App extends Component {
     return (
       <React.Fragment>
         <NavigationBar />
+        <Jumbotron />
         <Layout>
           <Router>
             <Switch>
