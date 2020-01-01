@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/collegesafe/static/css/main.abe0b0c7.chunk.css",
-    "main.js": "/collegesafe/static/js/main.0e9b1855.chunk.js",
-    "main.js.map": "/collegesafe/static/js/main.0e9b1855.chunk.js.map",
+    "main.js": "/collegesafe/static/js/main.32f8a7db.chunk.js",
+    "main.js.map": "/collegesafe/static/js/main.32f8a7db.chunk.js.map",
     "runtime-main.js": "/collegesafe/static/js/runtime-main.ab1652ef.js",
     "runtime-main.js.map": "/collegesafe/static/js/runtime-main.ab1652ef.js.map",
     "static/js/2.cf3546c9.chunk.js": "/collegesafe/static/js/2.cf3546c9.chunk.js",
     "static/js/2.cf3546c9.chunk.js.map": "/collegesafe/static/js/2.cf3546c9.chunk.js.map",
     "index.html": "/collegesafe/index.html",
-    "precache-manifest.e9263a6ff2e3b270a98b58ab000899ca.js": "/collegesafe/precache-manifest.e9263a6ff2e3b270a98b58ab000899ca.js",
+    "precache-manifest.2f061f51dc000df5beeb64854bfd61df.js": "/collegesafe/precache-manifest.2f061f51dc000df5beeb64854bfd61df.js",
     "service-worker.js": "/collegesafe/service-worker.js",
     "static/css/main.abe0b0c7.chunk.css.map": "/collegesafe/static/css/main.abe0b0c7.chunk.css.map",
     "static/js/2.cf3546c9.chunk.js.LICENSE": "/collegesafe/static/js/2.cf3546c9.chunk.js.LICENSE",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ab1652ef.js",
     "static/js/2.cf3546c9.chunk.js",
     "static/css/main.abe0b0c7.chunk.css",
-    "static/js/main.0e9b1855.chunk.js"
+    "static/js/main.32f8a7db.chunk.js"
   ]
 }
