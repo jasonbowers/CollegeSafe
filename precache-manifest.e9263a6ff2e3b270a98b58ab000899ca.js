@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ade2d7ff63ff2e86b3403b78dd01412f",
+    "revision": "17e1334782053cec36f9f9ded0719bd6",
     "url": "/collegesafe/index.html"
   },
   {
-    "revision": "084fc2884ba2d39d24d1",
+    "revision": "951087adc596be777945",
     "url": "/collegesafe/static/css/main.abe0b0c7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/collegesafe/static/js/2.cf3546c9.chunk.js.LICENSE"
   },
   {
-    "revision": "084fc2884ba2d39d24d1",
-    "url": "/collegesafe/static/js/main.697877c2.chunk.js"
+    "revision": "951087adc596be777945",
+    "url": "/collegesafe/static/js/main.0e9b1855.chunk.js"
   },
   {
     "revision": "42d5b92cb9e5e8a0743d",
