@@ -1,6 +1,6 @@
 {
   "name": "collegesafe",
-  "homepage": "http://jasonbowers.github.io/collegesafe",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
