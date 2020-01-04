@@ -1,35 +1,43 @@
 import React, { Component } from "react";
 import { Nav, Navbar, NavbarBrand, Container } from "react-bootstrap";
 import styled from "styled-components";
-import icon from "../../Assets/icn.png";
+import icon from "../../Assets/icn-black.png";
 
 const Styles = styled.div`
   .navbar {
-    background-color: #222;
+    background-color: white;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.);
   }
 
-  .navbar-brand,
+  .navbar-brand{
+    color: #edac57;
+    font-weight: 600;
+    &:hover {
+      color: #f7c079;
+    }
+  }
+  
   .navbar-nav .nav-link {
-    color: #bbb;
+    color: black;
+    font-weight: 600;
 
     &:hover {
-      color: white;
+      color: #555;
     }
 
-    .brand-icon {
-      max-width: 50px;
-    }
+    
   }
 
-  .navbar-light .navbar-toggler {
-    color: white;
+  .brand-icon {
+    max-width: 50px;
   }
+  
 `;
 
 export default class NavigationBar extends Component {
   render() {
     return (<Styles>
-      <Navbar expand="lg" className="navbar-dark">
+      <Navbar expand="lg" className="navbar-light">
         <Container>
           <NavbarBrand href="/">
             <img className="brand-icon"
